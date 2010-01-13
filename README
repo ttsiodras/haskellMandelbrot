@@ -1,0 +1,3 @@
+mandel.third uses the library version of complex numbers (Complex Float),
+while my first two attempts used my own complex type... and once I used
+the library ones, speed became 10 times slower... Why!?
